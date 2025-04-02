@@ -20,9 +20,5 @@ int main(void){
             maior = z;
         }
     }
-   
-    
-
-
     return 0;
 }
