@@ -57,7 +57,6 @@ int main(void){
     x = men;
     y = inter;
     z = maior;
-
     printf("x = %d, y = %d, z = %d\n", x, y, z);
     return 0;
 }
